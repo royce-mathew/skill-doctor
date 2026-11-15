@@ -4,7 +4,7 @@
 
 Audit agent skills and prompt instructions. Review the evidence before you change a rule.
 
-[![skills.sh](https://skills.sh/b/royce-mathew/skill-doctor?style=flat-square)](https://skills.sh/royce-mathew/skill-doctor/skill-doctor)
+[![Install with skills.sh](https://img.shields.io/badge/skills.sh-install-111111?style=flat-square)](https://skills.sh/royce-mathew/skill-doctor/skill-doctor)
 
 [Install](#install-the-skill) · [Run an audit](#audit-your-skill-library) · [Audit reference](docs/reference.md) · [Report a bug](https://github.com/royce-mathew/skill-doctor/issues)
 
